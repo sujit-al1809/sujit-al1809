@@ -15,7 +15,7 @@ still learning, still shipping.
 
 | Hackathon | Project | Result | Year |
 |---------|---------|--------|------|
-| Blockathon (Blockchain Hackathon) | [Decentralized Identity & Rewards System](https://github.com/your-username/blockathon-project) | Winner | Dec. 2025 |
+| BLOK-a-THON (Blockchain Hackathon) | [Decentralized Identity & Rewards System](https://github.com/your-username/blockathon-project) | Winner | Dec. 2025 |
 | Avishkar Hackathon (NIOT & SRM) | [Smart Marine Monitoring System](https://github.com/your-username/avishkar-project) | Runner-up | Mar. 2025 |
 | Google Agentic AI Hackathon | [Agentic AI Workflow Orchestrator](https://github.com/your-username/agentic-ai-project) | Finalist | Aug. 2025 |
 
