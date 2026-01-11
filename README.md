@@ -1,4 +1,4 @@
-## 👋 hey, i'm sujit
+## 👋 hey · hello · namaste · namaskaar · vanakkam , i'm sujit
 
 i build. ship. scale fast.  
 into **ai, ml/dl, systems, and engineering** through daily coding.  
