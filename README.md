@@ -1,9 +1,9 @@
 ## 👋 hey · hello · namaste · namaskaar · vanakkam , i'm sujit
 
 i build. ship. scale fast.  
-into **ai, ml/dl, systems, and engineering** through daily coding.  
-ug student & research @ **iit madras**. 
-captain @ **aws cloud club iitm**.
+into ai, ml/dl, systems, and engineering through daily coding.  
+ug student & research @ **iit madras**.  
+captain @ **aws cloud club iitm**.  
 still learning, still shipping.
 
 ---
