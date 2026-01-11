@@ -10,13 +10,14 @@ still learning, still shipping.
 - **2025 – Present**: Freelancer (AI / Backend / Cloud)  
 - **Apr 2025 – Sept 2026**: Tech Lead (AI/ML) @ [Zeex AI](https://zeexai.com)  
 - **Dec 2024 – Apr 2025**: Backend & Cloud Lead @ [Runverve](https://www.runverve.tech/)
-### Hackathons 
+
+**Hackathons**
 
 | Hackathon | Project | Result | Year |
 |---------|---------|--------|------|
-| Blockathon (Blockchain Hackathon) | [Decentralized Identity & Rewards System](https://github.com/your-username/blockathon-project) | Winner | 2024 |
-| Google Agentic AI Hackathon | [Agentic AI Workflow Orchestrator](https://github.com/your-username/agentic-ai-project) | Finalist | 2025 |
-| Avishkar Hackathon (NIOT & SRMIST) | [Smart Marine Monitoring System](https://github.com/your-username/avishkar-project) | Runner-up | 2024 |
+| Blockathon (Blockchain Hackathon) | [Decentralized Identity & Rewards System](https://github.com/your-username/blockathon-project) | Winner | Dec. 2025 |
+| Avishkar Hackathon (NIOT & SRM) | [Smart Marine Monitoring System](https://github.com/your-username/avishkar-project) | Runner-up | Mar. 2025 |
+| Google Agentic AI Hackathon | [Agentic AI Workflow Orchestrator](https://github.com/your-username/agentic-ai-project) | Finalist | Aug. 2025 |
 
 
 
