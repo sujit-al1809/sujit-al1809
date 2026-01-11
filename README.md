@@ -15,7 +15,7 @@ still learning, still shipping.
 
 | Hackathon | Project | Result | Year |
 |---------|---------|--------|------|
-| BLOK-a-THON (Blockchain Hackathon) | [Yield Harvester with AI](https://github.com/sujit-al1809/Blokathon-Foundry-hackathon) | Winner | Dec. 2025 |
+| BLOK-a-THON (Blockchain Hackathon) | [Yield Harvester with AI(AI agent based DeFi yield optimization protocol that continuously reallocates capital across strategies to maximize returns)](https://github.com/sujit-al1809/Blokathon-Foundry-hackathon) | Winner | Dec. 2025 |
 | Avishkar Hackathon (NIOT & SRM) | [Digital twin and maintenance dashboard for real-time monitoring and predictive maintenance of coal slurry pipelines.](https://github.com/your-username/avishkar-project) | Runner-up | Mar. 2025 |
 | Google Agentic AI Hackathon | [finsightAI – Your Intelligent Financial Copilot](https://github.com/sujit-al1809/finsight_agents) | Finalist | Aug. 2025 |
 
