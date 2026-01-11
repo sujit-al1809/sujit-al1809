@@ -2,26 +2,28 @@
 
 i build. ship. scale fast.  
 into **ai, ml/dl, systems, and engineering** through daily coding.  
-ug student & research @ **IIT Madras**.  
+ug student & research @ **iit madras**.  
 still learning, still shipping.
 
-**Work Experience**
-- **May 2025 – Present**: Research Intern @ [RuTAG IIT Madras](https://rutag.iitm.ac.in)  
-- **2025 – Present**: Freelancer (AI / Backend / Cloud)  
-- **Apr 2025 – Sept 2026**: Tech Lead (AI/ML) @ [Zeex AI](https://zeexai.com)  
-- **Dec 2024 – Apr 2025**: Backend & Cloud Lead @ [Runverve](https://www.runverve.tech/)
+---
 
-**i live in hackathons - 15+ builds under pressure**
+### work experience
+- **may 2025 – present**: research intern @ [rutag iit madras](https://rutag.iitm.ac.in)  
+- **2025 – present**: freelancer (ai / backend / cloud)  
+- **apr 2025 – sept 2026**: tech lead (ai/ml) @ [zeex ai](https://zeexai.com)  
+- **dec 2024 – apr 2025**: backend & cloud lead @ [runverve](https://www.runverve.tech/)
 
-| Hackathon | Project | Result | Year |
-|---------|---------|--------|------|
-| BLOK-a-THON (Blockchain Hackathon) | [Yield Harvester with AI(AI agent based DeFi yield optimization protocol that continuously reallocates capital across strategies to maximize returns)](https://github.com/sujit-al1809/Blokathon-Foundry-hackathon) | Winner | Dec. 2025 |
-| Avishkar Hackathon (NIOT & SRM) | [Digital twin and maintenance dashboard for real-time monitoring and predictive maintenance of coal slurry pipelines.](https://github.com/your-username/avishkar-project) | Runner-up | Mar. 2025 |
-| Google Agentic AI Hackathon | [finsightAI – Your Intelligent Financial Copilot](https://github.com/sujit-al1809/finsight_agents) | Finalist | Aug. 2025 |
+---
 
+### i live in hackathons - 15+ builds under pressure
 
+| hackathon | project | result | year |
+|----------|---------|--------|------|
+| blok-a-thon (blockchain hackathon) | [yield harvester with ai (ai agent based defi yield optimization protocol that continuously reallocates capital across strategies to maximize returns)](https://github.com/sujit-al1809/Blokathon-Foundry-hackathon) | winner | dec. 2025 |
+| avishkar hackathon (niot & srm) | [digital twin and maintenance dashboard for real-time monitoring and predictive maintenance of coal slurry pipelines](https://github.com/your-username/avishkar-project) | runner-up | mar. 2025 |
+| google agentic ai hackathon | [finsightai – your intelligent financial copilot](https://github.com/sujit-al1809/finsight_agents) | finalist | aug. 2025 |
 
+---
 
-
-personal site - [sujit.codes](https://sujit.codes) - [resume](https://sujitlaware.pages.dev/resume.pdf)
-
+personal site — [sujit.codes](https://sujit.codes)  
+resume — [view pdf](https://sujitlaware.pages.dev/resume.pdf)
