@@ -11,7 +11,7 @@ still learning, still shipping.
 - **Apr 2025 – Sept 2026**: Tech Lead (AI/ML) @ [Zeex AI](https://zeexai.com)  
 - **Dec 2024 – Apr 2025**: Backend & Cloud Lead @ [Runverve](https://www.runverve.tech/)
 
-**Hackathons**
+**i live in hackathons - 15+ builds under pressure**
 
 | Hackathon | Project | Result | Year |
 |---------|---------|--------|------|
