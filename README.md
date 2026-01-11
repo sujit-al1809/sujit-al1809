@@ -7,7 +7,7 @@ still learning, still shipping.
 
 ---
 
-### work experience
+### experience across research, startups, and independent work
 - **may 2025 – present**: research intern @ [rutag iit madras](https://rutag.iitm.ac.in)  
 - **2025 – present**: freelancer (ai / backend / cloud)  
 - **apr 2025 – sept 2026**: tech lead (ai/ml) @ [zeex ai](https://zeexai.com)  
