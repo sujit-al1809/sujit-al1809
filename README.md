@@ -28,3 +28,9 @@ still learning, still shipping.
 
 personal site — [sujit.codes](https://sujit.codes)  
 resume — [view pdf](https://sujitlaware.pages.dev/resume.pdf)
+
+### what i work with:
+- ai / ml / llm systems
+- backend engineering & apis
+- cloud platforms: aws, gcp, azure
+- agentic systems & applied research
