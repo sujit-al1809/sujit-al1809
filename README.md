@@ -16,7 +16,7 @@ still learning, still shipping.
 
 ---
 
-### i live in hackathons - 15+ builds under pressure
+### i live in hackathons - [15+ builds under pressure](https://sujit.codes)
 
 | hackathon | project | result | year |
 |----------|---------|--------|------|
